@@ -60,7 +60,7 @@ ui <- dashboardPage(
     ),
     sliderInput("pinf",
                 "Başlangıç Enfeksiyon Sayısı:",
-                min = 1, max = 50, value = 2
+                min = 1, max = 5000, value = 2
     ),
     sliderInput("pvac",
                 "Aşılı Nüfus Oranı (%):",
