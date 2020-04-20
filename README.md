@@ -8,4 +8,3 @@ https://github.com/ekstroem/Shiny-Vaccine adresindeki uygulama üzerinde değiş
 
 Info, style, localization changes and improvements over https://github.com/ekstroem/Shiny-Vaccine
 
-This will be removed
