@@ -226,7 +226,7 @@ server <- function(input, output) {
         direction = "y"
       ) +
       
-      #scale_colour_manual(values = c("red", "green4", "black", "blue")) +
+      scale_colour_manual(values = c("#DC322F", "#B58900", "#268BD2", "#2AA198" )) +
       scale_y_continuous(labels = scales::percent, limits = c(0, 1)) +
       theme_solarized(light = FALSE) + 
       theme(
