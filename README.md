@@ -7,3 +7,5 @@ Interactive shiny app for SIR modeling with Vaccination - Turkish
 https://github.com/ekstroem/Shiny-Vaccine adresindeki uygulama üzerinde değişiklik ve iyileştirmelerle oluşturulmuştur.
 
 Info, style, localization changes and improvements over https://github.com/ekstroem/Shiny-Vaccine
+
+This will be removed
